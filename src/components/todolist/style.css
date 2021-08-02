@@ -126,7 +126,6 @@ input:focus {
 
 .fa-trash-alt,
 .fa-edit {
-  /* margin-left: -2.5rem; */
   cursor: pointer;
   pointer-events: auto;
   z-index: 10;
